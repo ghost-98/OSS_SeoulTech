@@ -1,1 +1,1 @@
-# OSS_SeoulTech
+# My remote repository using Github for OSS class
